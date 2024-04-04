@@ -1,0 +1,21 @@
+
+/* Estilos CSS */
+.contenedorLista {
+    width: 80%;
+    margin: 0 auto;
+}
+.elementoLista {
+    margin-bottom: 20px;
+}
+.nombre {
+    font-weight: bold;
+}
+.precio {
+    float: right;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
